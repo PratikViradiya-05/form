@@ -1,0 +1,21 @@
+form{
+    font-family: 'Single Day', cursive;
+    font-size: xx-large;
+    text-align: center;
+    background-color: antiquewhite;
+}
+#abc{
+    background-color: white;
+}
+.submit:hover{
+    background-color: rgb(155, 236, 155);
+}
+.submit{
+    width: 100%;
+}
+.login:hover{
+    background-color: rgb(155, 236, 155);
+}
+.login{
+    width: 100%;
+}
