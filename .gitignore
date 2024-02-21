@@ -1,4 +1,0 @@
-var gi = require(`gitignore`);
-
-/.env
-/node_modules
